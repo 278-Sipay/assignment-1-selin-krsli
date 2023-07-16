@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FW_ApiProject.props" />
+</Project>
